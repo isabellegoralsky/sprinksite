@@ -1,0 +1,21 @@
+﻿body{
+    font-family: Poppins;
+}
+a {
+    text-decoration: none;
+    color: black;
+   
+}
+h1{
+    font-size: 50px;
+    margin-left: 64px;
+    margin-top: 64px;
+}
+a:hover{
+    color: blue;
+}
+ 
+h6{
+    margin-right: 64px;
+    padding-right: 64px;
+}
